@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace GetDoctor
+namespace Getdoctor
 {
     public class FilterConfig
     {
